@@ -1,1 +1,2 @@
 Inserting random text
+Adding some more text to the file
